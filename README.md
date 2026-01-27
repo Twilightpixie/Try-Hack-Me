@@ -62,6 +62,3 @@ Sl.NO| Rooms                                | Links
   44.|YARA Rules - YARA mean one!           |https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7
   45.|Phishing - Phishmas Greetings         |https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0
 
-
-  32.|IDOR - Santa’s Little IDOR            |https://tryhackme.com/room/idor-aoc2025-zl6MywQid9
-
