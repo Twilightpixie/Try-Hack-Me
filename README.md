@@ -11,8 +11,9 @@ sl. NO| Badge Name        | Links
     7.|First Step into SOC|https://tryhackme.com/twilightpixie/badges/first-step-into-soc?utm_campaign=social_share&utm_medium=soci>
     8.|Bronze League      |https://tryhackme.com/twilightpixie/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm>
     9.|Networking Nerd    |https://tryhackme.com/twilightpixie/badges/network-fundamentals?utm_campaign=social_share&utm_medium=soc>
+   10.|Webbed             |https://tryhackme.com/dashboard?badge=twilightpixie:web-fund 
 All my Achievements:
-ll My Completed Rooms from DEC 2025- JAN 2026
+All My Completed Rooms from DEC 2025- JAN 2026
 ---------------------------------------------------
 Sl.NO| Rooms                                | Links
 --------------------------------------------------------------------------------------------------------------------
@@ -60,5 +61,6 @@ Sl.NO| Rooms                                | Links
   42.|SOC Role in Blue Team                 |https://tryhackme.com/room/socroleinblueteam
   43.|Introduction to SIEM                  |https://tryhackme.com/room/introtosiem
   44.|YARA Rules - YARA mean one!           |https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7
+  45.|HTTP in Detail                        |https://tryhackme.com/room/httpindetail(28th jan)
   45.|Phishing - Phishmas Greetings         |https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0
 
