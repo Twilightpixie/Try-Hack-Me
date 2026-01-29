@@ -12,3 +12,4 @@ sl. NO| Badge Name        | Links
      8.|Bronze League      |https://tryhackme.com/twilightpixie/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm>
      9.|Networking Nerd    |https://tryhackme.com/twilightpixie/badges/network-fundamentals?utm_campaign=social_share&utm_medium=soc>
     10.|Webbed             |https://tryhackme.com/dashboard?badge=twilightpixie:web-fund 
+    11.|cat linux.txt      |https://tryhackme.com/twilightpixie/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=67f8e752410e6d204b929ddb
